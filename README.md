@@ -1,9 +1,3 @@
-جميل 👌
-بما إنك ناوي تستخدمه للتقديم لشركات كبيرة أو Remote في السعودية، لازم الـ README يبان إنك **بتفكر بعقل إداري مش مجرد مستخدم Power BI**.
-
-هكتب لك نسخة Business-Level أقوى، منظمة، وبتعكس نضج تحليلي 👇
-
----
 
 # 📊 Data Professional Survey – Strategic Workforce & Compensation Analysis
 
@@ -103,10 +97,3 @@ This project demonstrates the ability to:
 
 ---
 
-دي النسخة اللي تخلي HR أو Hiring Manager يشوفك كـ:
-
-✔ Business-Oriented Data Analyst
-✔ Someone who understands workforce analytics
-✔ مش مجرد Dashboard Builder
-
-لو حابب، نقدر كمان نضيف سطرين Tailored مخصوص لسوق السعودية (بزاوية Workforce Planning و Vision 2030) بطريقة ذكية وغير مبالغ فيها 👀🔥
